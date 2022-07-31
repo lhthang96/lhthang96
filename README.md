@@ -1,7 +1,6 @@
 ### 👋 Hi there! Nice to see you.
 
-Welcome to my page!
-
+Welcome to my page!<br/>
 I'm Thang, a software engineer :man_technologist:.
 
 #### I mainly code with
