@@ -25,6 +25,10 @@ I'm Thang, a software engineer :man_technologist:.
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+#### Get in touch
+
+[![My Github](https://skillicons.dev/icons?i=github)](https://github.com/lhthang96)
+[![My Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/thang-luong-59a578227)
 
 <!--
 **lhthang96/lhthang96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
