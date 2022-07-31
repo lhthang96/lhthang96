@@ -45,4 +45,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+TODO: Split layout and add other funny things beside the dev card
 <a href="https://app.daily.dev/thang_luong"><img src="https://github.com/lhthang96/lhthang96/blob/main/devcard.svg" width="400" alt="Thang Luong's Dev Card"/></a>
+-->
